@@ -1,4 +1,4 @@
-# MiniOneRec Reproduction
+# MiniOneRec-1.5B Reproduction
 
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace%20Model-yellow)](https://huggingface.co/onesfour/MiniOneRec-1.5B-SFT-GDPO)
 
